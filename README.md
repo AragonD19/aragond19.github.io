@@ -19,9 +19,9 @@
 <p>bandit14: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq</p>
 <p>bandit15: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt</p>
 <p>bandit16: JQttfApK4SeyHwDlI9SXGR50qclOAil1</p>
-<p>bandit17: </p>
-<p>bandit18: </p>
-<p>bandit19: </p>
-<p>bandit20: </p>
+<p>bandit17: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd</p>
+<p>bandit18: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x</p>
+<p>bandit19: GbKksEFF4yrVs6il55v6gwY5aVje5f0j</p>
+<p>bandit20: gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr</p>
 </body>
 </html>
